@@ -1,0 +1,3 @@
+admin | Username: admin | Password: Password123!
+customer1 | Username: alice | Password: Password123!
+customer2 | Username: bongani | Password: Password123!
